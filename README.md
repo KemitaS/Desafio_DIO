@@ -1,3 +1,3 @@
 ## RECRIANDO A PÁGINA INICIAL DO INSTAGRAM
 
-Nesse projeto você terá o desafio de reconstruir a página inicial de  login do Instagram, no qual será abordado o conceito sobre CSS  utilizando Flexbox, uma metodologia de posicionamento de elementos em  tela mais utilizada no mercado assim como conceitos de responsividade,  além disso a expert disponibiliza todo o material necessário em seu  GitHub para que você possa realizar o seu projeto.
+Primeiro desafio da Bootvamp HTML Web Developer, da DIO, onde recriei a página inicial de login do instagram utilizando conceitos básicos HTML5 e CSS3. 
